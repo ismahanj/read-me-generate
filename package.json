@@ -1,0 +1,23 @@
+{
+  "name": "read-me-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismahanj/read-me-generate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismahanj/read-me-generate/issues"
+  },
+  "homepage": "https://github.com/ismahanj/read-me-generate#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
